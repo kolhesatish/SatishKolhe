@@ -1,0 +1,71 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Experienced frontend developer proficient in HTML, CSS, and React, with a proven track record of creating responsive and visually appealing user interfaces."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Seasoned backend developer with expertise in designing and implementing robust server-side architectures."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Data Structures and Algorithms ",
+      "description": "Successfully maintained a streak of 200 consecutive days of problem-solving and a proactive approach to staying current with industry challenges."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "ARTICLE SUMMARIZER",
+      "description": "Implemented natural language processing techniques to analyze lengthy articles, condensing them into concise summaries. Enhanced user comprehension by providing quick access to key information",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "SECRETS WEB APP",
+      "description": "Designed and developed a secure web application that allows users to share secrets anonymously while implementing advanced privacy measures",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "RESTAURANT WEB APP",
+      "description": "Implemented responsive web design and utilized React components to create interactive interfaces, enabling seamless browsing, viewing restaurant details, and reservation making across various devices and screen sizes.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "I want to express my gratitude for the excellent work on our website. The design elements align perfectly with our brand, and the functionality is top-notch.",
+      "author_name": "Yogesh Vidhate",
+      "author_designation": "Lawyer"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Overall, I appreciate the effort put into developing our website. However, I would like to suggest some improvements for future projects.",
+      "author_name": "Avinash Kolhe",
+      "author_designation": "Farmer"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I am extremely pleased with the website development services provided by your team. The website not only meets but exceeds my expectations.",
+      "author_name": "Abhishek Kolhe",
+      "author_designation": "Prep Army"
+    }
+  ]
+}
