@@ -232,8 +232,8 @@ h2 {
   display: flex;
 }
 .hero--section--img > img {
-  margin-left: 200px;
-  width: 300px 100px;
+  margin-left: 50%;
+  width: 30% 30%;
   height: 300px;
   border-radius: 50%; /* Make it a circle by setting border-radius to 50% */
   object-fit: cover;
