@@ -17,7 +17,7 @@ export default function HeroSection() {
           <a className="btn btn-primary" href="mailto:kolhesatish308@gmail.com">Get In Touch</a>
       </div>
       <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
+        <img src="./img/hero_img1.png" alt="Hero Section" />
       </div>
     </section>
   );
